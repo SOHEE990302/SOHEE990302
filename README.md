@@ -10,7 +10,7 @@ My goal is to give good influence to society.<br/>
 Have a day full of good today.
 
 
-<br/><br/>
+<br/>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSOHEE990302&count_bg=%23FFD1D1&title_bg=%23FF9494&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
