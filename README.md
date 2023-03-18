@@ -36,11 +36,14 @@ Have a day full of good today.
 
 
 </br>
-<h3> 🐱 About Me 🐱 </h3>
+<h3> 💖  About Me 💖  </h3>
 수정중
 
 
 <br/>
+
+<h3>⚡ Task Status ⚡</h3>
+![Sohee's github stats](https://github-readme-stats.vercel.app/api?username=SOHEE990302&show_icons=true)
 
 </div>
 
