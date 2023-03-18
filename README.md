@@ -39,7 +39,7 @@ Have a day full of good today.
 <h3> 🐱 About Me 🐱 </h3>
 
 <br/>
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
