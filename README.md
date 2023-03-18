@@ -37,7 +37,7 @@ Have a day full of good today.
 
 </br>
 <h3> 🐱 About Me 🐱 </h3>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmail.com2@gmail.com)](alisa56567@gmail.com)
+수정중
 
 <br/>
 
