@@ -37,7 +37,7 @@ Have a day full of good today.
 
 </br>
 <h3> 💖  About Me 💖  </h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohee-hwang-4a44911a5/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohee-hwang-4a44911a5/)]
 
 
 <br/>
