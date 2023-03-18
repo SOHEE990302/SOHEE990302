@@ -22,14 +22,11 @@ Have a day full of good today.
 
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h3>🛠️ Tech Stack 🛠️</h3>
  
 <br/>
 
-
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 </div>
 
