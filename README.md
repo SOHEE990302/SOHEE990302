@@ -37,13 +37,7 @@ Have a day full of good today.
 
 </br>
 <h3> 🐱 About Me 🐱 </h3>
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOHEE990302&show_icons=true&theme=radical)
-#[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisa56567@gmail.com)]
 
-</br>
-</br>
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인깃계정명&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 <br/>
 
 
