@@ -33,13 +33,14 @@ Have a day full of good today.
  <h3> 💪🏼 Tools 💪🏼 </h3>
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-</div>
+
 
 </br>
 <h3> 🐱 About Me 🐱 </h3>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmail.com2@gmail.com)](alisa56567@gmail.com)
 
 <br/>
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
