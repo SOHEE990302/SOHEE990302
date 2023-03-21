@@ -44,11 +44,10 @@ Have a day full of good today.
 <br/>
 
 <h3>⚡ Task Status ⚡</h3>
-![Sohee's github stats](https://github-readme-stats.vercel.app/api?username=SOHEE990302&show_icons=true)
-
+</br>
 ![SOHEE990302's Stats](https://github-readme-stats.vercel.app/api?username=SOHEE990302&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-0302's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHEE990302&theme=default&hide_border=true)
+![SOHEE990302's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOHEE990302&theme=default&hide_border=true)
 </br>
 ![SOHEE990302's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHEE990302&theme=default&show_icons=true&hide_border=true&layout=compact)
 
